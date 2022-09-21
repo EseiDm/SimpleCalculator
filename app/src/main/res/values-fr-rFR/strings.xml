@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculatrice simple</string>
+    <string name="op1">Opérateur 1</string>
+    <string name="op2">Opérateur 2</string>
+    <string name="sum">Somme</string>
+</resources>

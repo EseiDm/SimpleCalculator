@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">A miña Calculadora</string>
+    <string name="op1">Operador 1</string>
+    <string name="op2">Operador 2</string>
+    <string name="sum">Suma</string>
+</resources>
